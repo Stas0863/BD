@@ -1,0 +1,13 @@
+a { 
+    text-decoration: none; 
+   } 
+.row {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px; 
+    padding-right: 81%;
+}
+.ps{
+    padding-left: 10px; 
+    padding-right: 81%; 
+}
